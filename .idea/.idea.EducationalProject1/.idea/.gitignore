@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.EducationalProject1.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\deris\RiderProjects\EducationalProject1\.idea\.idea.EducationalProject1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
