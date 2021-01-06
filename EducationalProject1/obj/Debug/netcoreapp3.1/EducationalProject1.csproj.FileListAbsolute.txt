@@ -1,0 +1,13 @@
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\bin\Debug\netcoreapp3.1\EducationalProject1.exe
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\bin\Debug\netcoreapp3.1\EducationalProject1.deps.json
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\bin\Debug\netcoreapp3.1\EducationalProject1.runtimeconfig.json
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\bin\Debug\netcoreapp3.1\EducationalProject1.runtimeconfig.dev.json
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\bin\Debug\netcoreapp3.1\EducationalProject1.dll
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\bin\Debug\netcoreapp3.1\EducationalProject1.pdb
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\obj\Debug\netcoreapp3.1\EducationalProject1.csprojAssemblyReference.cache
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\obj\Debug\netcoreapp3.1\EducationalProject1.AssemblyInfoInputs.cache
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\obj\Debug\netcoreapp3.1\EducationalProject1.AssemblyInfo.cs
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\obj\Debug\netcoreapp3.1\EducationalProject1.csproj.CoreCompileInputs.cache
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\obj\Debug\netcoreapp3.1\EducationalProject1.dll
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\obj\Debug\netcoreapp3.1\EducationalProject1.pdb
+C:\Users\deris\RiderProjects\EducationalProject1\EducationalProject1\obj\Debug\netcoreapp3.1\EducationalProject1.genruntimeconfig.cache
